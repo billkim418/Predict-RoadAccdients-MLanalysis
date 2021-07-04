@@ -1,5 +1,4 @@
 # Predict Road Accidents by using [ORANGE](https://orangedatamining.com/) Machine Learning dataming tool.
-![orange2](https://www.google.co.kr/imgres?imgurl=https%3A%2F%2Forangedatamining.com%2Fimages%2Forange_title_scaled.png&imgrefurl=https%3A%2F%2Forangedatamining.com%2F&tbnid=KT8Vj4uczX17UM&vet=12ahUKEwibmrLX3cjxAhVFeZQKHeTnAVcQMygBegUIARCuAQ..i&docid=0pvpL5RAlZM7ZM&w=800&h=529&q=ORANGE%20DATA&ved=2ahUKEwibmrLX3cjxAhVFeZQKHeTnAVcQMygBegUIARCuAQ)
 
 ## Project Objective
 -   The purpose of the analysis is to create a model that can predict the casualty severity through the analysis and examine key indicators. The data can be used to determine the ideal value of compensation according to the Injury Severity of the customer, and to prepare for emergency treatment. Also if we know the type of accident which has high severity, we can prevent additional accidents.
@@ -19,4 +18,5 @@
 
 - 2020.09.1 ~ 2020.12.21
 
-# 
+## Project Scope
+-  We will analyze road accident data that occurred from January 2017 to December 2018 in  cheoin-gu. As a pre-processing process, fields that are not related will be removed, and other data such as road surface conditions and road types will be added. Some fields of the data will be grouped and categorized.
